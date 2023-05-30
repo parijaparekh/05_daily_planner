@@ -33,7 +33,7 @@ THEN the saved events persist
 ## Glimpse fo the application
 The following image demonstrates the application look and feel:
 
-![Snapshot of the application](./Assets/developed_app.png)
+![Snapshot of the application](././Assets/developed_app.png)
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
